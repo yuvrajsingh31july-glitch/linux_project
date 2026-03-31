@@ -12,7 +12,7 @@ read -p "2. In one word, what does 'freedom' mean to you? " FREEDOM
 read -p "3. Name one thing you would build and share freely: " BUILD
 
 DATE=$(date '+%d %B %Y')
-USER_NAME="abhishek"
+USER_NAME="yuvraj"
 OUTPUT="manifesto_${USER_NAME}.txt"
 
 # Utilizing an alias conceptually (demonstrated via alias definition)
